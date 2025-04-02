@@ -25,9 +25,6 @@ This portfolio website is a curated collection of my graphic design. It serves a
 - **Contact Section** Simple form to allow visitors to get in touch with me.
 - **Smooth Animations:** Modern CSS and JavaScript animations to enhance user experience.
 
-## Demo
-
-You can view a live demo of the portfolio website [here](https://github.com/bhavya-parmar/portfolio_website.git).
 
 ## Technologies Used
 
